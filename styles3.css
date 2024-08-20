@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'S-CoreDream-3Light';
+	src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+ }
+body {
+	font-family: 'S-CoreDream-3Light';
+}
+.header h1 {
+	margin: 20px;
+}
+h1 {
+	color: black;
+	margin: 20px;
+	padding-top: 30px;
+}
+section {
+	margin-bottom: 20px;
+	padding: 15px;
+}
+h2 {
+	color: black;
+}
+p {
+	color: black;
+}
