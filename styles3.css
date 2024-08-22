@@ -7,21 +7,25 @@
 body {
 	font-family: 'S-CoreDream-3Light';
 }
-.header h1 {
+div h1 {
 	margin: 20px;
 }
 h1 {
-	color: black;
+	color: darkblue;
 	margin: 20px;
 	padding-top: 30px;
+	font: bold;
 }
-section {
-	margin-bottom: 20px;
+.bg {
+	margin-bottom: 0px;
 	padding: 15px;
+	background: url('brain-5369196_1280.jpg') no-repeat fixed;
+	background-size: cover;
 }
 h2 {
-	color: black;
+	color: blue;
 }
 p {
-	color: black;
+	color: white;
+	font: bold;
 }
