@@ -12,10 +12,15 @@
  display: flex;
  padding: 20px;
  margin: 30px auto;
+ border-radius: 25px;
 }
 .box .lec-name {
  padding: 10px;
  width: 280px;
+}
+.box .lec-name img {
+    width: 95%;
+    height: 80%;
 }
 .box .lec-name h2 {
  color: darkblue;
@@ -70,10 +75,15 @@
     display: flex;
     padding: 20px;
     margin: 30px auto;
+    border-radius: 25px;
    }
    .box1 .lec-name1 {
     padding: 10px;
     width: 280px;
+   }
+   .box1 .lec-name1 img {
+    width: 95%;
+    height: 83%;
    }
    .box1 .lec-name1 h2 {
     color: darkblue;
@@ -97,6 +107,64 @@
        padding-left: 20px;
    }
    .btn1 {
+       background-color: lightgray;
+       color: black;
+       font-weight: bolder;
+       padding: 10px;
+       border: none;
+       box-shadow: 2px 2px 10px lightgray;
+       border-radius: 40px;
+   }
+   .btn:hover {
+       background-color: darkgray;
+       color:white;
+   }
+   @font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+   }
+   .box2 {
+    font-family: 'S-CoreDream-3Light';
+    width: 850px;
+    height: 300px;
+    box-shadow: 2px 2px 10px lightslategray;
+    display: flex;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 25px;
+   }
+   .box2 .lec-name2 {
+    padding: 10px;
+    width: 280px;
+   }
+   .box2 .lec-name2 img {
+    width: 190px;
+    height: 180px;
+   }
+   .box2 .lec-name2 h2 {
+    color: darkblue;
+    font-size: 26pt;
+    margin: 0px;
+   }
+   .box2 .lec-name2 h3 {
+    color: skyblue;
+    margin: 0px;
+   }
+   .box .lec-desc2 {
+    width: 500px;
+   }
+   .hashtag2{
+       color: blue;
+   }
+   .description2 {
+       margin-bottom: 10px;
+   }
+   .lex-desc2 ul {
+       padding-left: 20px;
+   }
+   .btn2 {
        background-color: lightgray;
        color: black;
        font-weight: bolder;
