@@ -19,13 +19,26 @@ h1 {
 .bg {
 	margin-bottom: 0px;
 	padding: 15px;
-	background: url('brain-5369196_1280.jpg') no-repeat fixed;
+	position: relative;
+}
+.bg::before{
+	content: "";
+	background-image: url('brain-5369196_1280.jpg');
 	background-size: cover;
+	opacity: 0.3;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;;
 }
-h2 {
-	color: blue;
-}
-p {
-	color: white;
+ol h2 {
+	color: red;
 	font: bold;
+	font-size: 30px;
+}
+ol p {
+	color: black;
+	font: bold;
+	font-size: 20px;
 }
