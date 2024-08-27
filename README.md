@@ -12,5 +12,5 @@
 ### 두번째 화면
 ---
 ![화면 캡처 2024-08-21 041450](https://github.com/user-attachments/assets/b07e6e21-38ab-4dfe-9fb0-97ecfeaf73ab)
-
+![화면 캡처 2024-08-27 151902](https://github.com/user-attachments/assets/10921ba8-d878-4553-bb8a-318ae04b03db) <br> 변경
 ### 마지막 화면
