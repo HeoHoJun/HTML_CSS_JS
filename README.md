@@ -1,6 +1,4 @@
-# HTML_CSS_JS 연습
-
-### JS는 추후
+# HTML_CSS 연습
 
 ### HTML + CSS로 만든 웹
 
